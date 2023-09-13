@@ -1,0 +1,86 @@
+<annotation>
+	<folder>Coins</folder>
+	<filename>IMG_20230913_203757.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins/IMG_20230913_203757.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2252</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>398</ymin>
+			<xmax>1101</xmax>
+			<ymax>1015</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>1148</ymin>
+			<xmax>914</xmax>
+			<ymax>1765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>984</xmin>
+			<ymin>1218</ymin>
+			<xmax>1589</xmax>
+			<ymax>1828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>1775</ymin>
+			<xmax>1299</xmax>
+			<ymax>2380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>2303</ymin>
+			<xmax>1754</xmax>
+			<ymax>2892</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>844</xmin>
+			<ymin>3012</ymin>
+			<xmax>1436</xmax>
+			<ymax>3588</ymax>
+		</bndbox>
+	</object>
+</annotation>
