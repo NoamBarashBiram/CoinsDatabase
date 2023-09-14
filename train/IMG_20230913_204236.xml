@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>IMG_20230913_204236.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins/All/IMG_20230913_204236.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1437</xmin>
+			<ymin>909</ymin>
+			<xmax>2151</xmax>
+			<ymax>1624</ymax>
+		</bndbox>
+	</object>
+</annotation>

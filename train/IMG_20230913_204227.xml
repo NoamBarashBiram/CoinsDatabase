@@ -1,7 +1,7 @@
 <annotation>
 	<folder>All</folder>
-	<filename>IMG_20230913_204135.jpg</filename>
-	<path>/media/noam/ROM/Tensorflow Datasets/Coins/All/IMG_20230913_204135.jpg</path>
+	<filename>IMG_20230913_204227.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins/All/IMG_20230913_204227.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,33 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>909</xmin>
-			<ymin>738</ymin>
-			<xmax>1306</xmax>
+			<xmin>589</xmin>
+			<ymin>541</ymin>
+			<xmax>1146</xmax>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1934</xmin>
+			<ymin>329</ymin>
+			<xmax>2469</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1174</xmin>
+			<ymin>638</ymin>
+			<xmax>1714</xmax>
 			<ymax>1155</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1357</xmin>
-			<ymin>592</ymin>
-			<xmax>1760</xmax>
-			<ymax>1001</ymax>
+			<xmin>1880</xmin>
+			<ymin>918</ymin>
+			<xmax>2397</xmax>
+			<ymax>1438</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1793</xmin>
-			<ymin>566</ymin>
-			<xmax>2203</xmax>
-			<ymax>979</ymax>
+			<xmin>1260</xmin>
+			<ymin>1161</ymin>
+			<xmax>1791</xmax>
+			<ymax>1684</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1368</xmin>
-			<ymin>1514</ymin>
-			<xmax>1783</xmax>
-			<ymax>1939</ymax>
+			<xmin>1194</xmin>
+			<ymin>1672</ymin>
+			<xmax>1720</xmax>
+			<ymax>2187</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2219</xmin>
-			<ymin>937</ymin>
-			<xmax>2639</xmax>
-			<ymax>1355</ymax>
+			<xmin>1946</xmin>
+			<ymin>1472</ymin>
+			<xmax>2466</xmax>
+			<ymax>1981</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2808</xmin>
-			<ymin>849</ymin>
-			<xmax>3227</xmax>
-			<ymax>1267</ymax>
+			<xmin>2537</xmin>
+			<ymin>798</ymin>
+			<xmax>3054</xmax>
+			<ymax>1327</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,22 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3228</xmin>
-			<ymin>877</ymin>
-			<xmax>3631</xmax>
-			<ymax>1289</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1/2 old sheqel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2861</xmin>
-			<ymin>1422</ymin>
-			<xmax>3282</xmax>
-			<ymax>1845</ymax>
+			<xmin>2474</xmin>
+			<ymin>195</ymin>
+			<xmax>2974</xmax>
+			<ymax>718</ymax>
 		</bndbox>
 	</object>
 </annotation>

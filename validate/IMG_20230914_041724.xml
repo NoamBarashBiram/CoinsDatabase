@@ -1,0 +1,62 @@
+<annotation>
+	<folder>All</folder>
+	<filename>IMG_20230914_041724.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins/All/IMG_20230914_041724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2252</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>500</ymin>
+			<xmax>901</xmax>
+			<ymax>1187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1448</xmin>
+			<ymin>1233</ymin>
+			<xmax>2200</xmax>
+			<ymax>1998</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>1676</ymin>
+			<xmax>1035</xmax>
+			<ymax>2433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>2746</ymin>
+			<xmax>1109</xmax>
+			<ymax>3489</ymax>
+		</bndbox>
+	</object>
+</annotation>

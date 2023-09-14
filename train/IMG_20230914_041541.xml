@@ -1,0 +1,134 @@
+<annotation>
+	<folder>All</folder>
+	<filename>IMG_20230914_041541.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins/All/IMG_20230914_041541.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2252</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1022</xmin>
+			<ymin>328</ymin>
+			<xmax>1487</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>746</ymin>
+			<xmax>492</xmax>
+			<ymax>1186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1459</xmin>
+			<ymin>1172</ymin>
+			<xmax>1919</xmax>
+			<ymax>1632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>976</xmin>
+			<ymin>2943</ymin>
+			<xmax>1426</xmax>
+			<ymax>3393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>2482</ymin>
+			<xmax>945</xmax>
+			<ymax>2925</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1211</xmin>
+			<ymin>2272</ymin>
+			<xmax>1667</xmax>
+			<ymax>2728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>842</xmin>
+			<ymin>1015</ymin>
+			<xmax>1262</xmax>
+			<ymax>1435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>1325</ymin>
+			<xmax>631</xmax>
+			<ymax>1748</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>1812</ymin>
+			<xmax>864</xmax>
+			<ymax>2228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1/2 old sheqel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1111</xmin>
+			<ymin>1883</ymin>
+			<xmax>1534</xmax>
+			<ymax>2303</ymax>
+		</bndbox>
+	</object>
+</annotation>

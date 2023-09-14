@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Coins</folder>
-	<filename>IMG_20230913_204135.jpg</filename>
-	<path>/media/noam/ROM/Tensorflow Datasets/Coins/IMG_20230913_204135.jpg</path>
+	<folder>All</folder>
+	<filename>IMG_20230913_204322.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins1/All/IMG_20230913_204322.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>909</xmin>
-			<ymin>738</ymin>
-			<xmax>1306</xmax>
-			<ymax>1155</ymax>
+			<xmin>1831</xmin>
+			<ymin>244</ymin>
+			<xmax>2497</xmax>
+			<ymax>898</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1357</xmin>
-			<ymin>592</ymin>
-			<xmax>1760</xmax>
-			<ymax>1001</ymax>
+			<xmin>1289</xmin>
+			<ymin>961</ymin>
+			<xmax>1963</xmax>
+			<ymax>1635</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1793</xmin>
-			<ymin>566</ymin>
-			<xmax>2203</xmax>
-			<ymax>979</ymax>
+			<xmin>2246</xmin>
+			<ymin>1181</ymin>
+			<xmax>2889</xmax>
+			<ymax>1841</ymax>
 		</bndbox>
 	</object>
 </annotation>
