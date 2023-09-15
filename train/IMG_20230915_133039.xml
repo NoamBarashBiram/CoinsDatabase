@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New</folder>
+	<filename>IMG_20230915_133039.jpg</filename>
+	<path>/media/noam/ROM/Tensorflow Datasets/Coins/New/IMG_20230915_133039.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10 old agora brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>272</ymin>
+			<xmax>2317</xmax>
+			<ymax>1660</ymax>
+		</bndbox>
+	</object>
+</annotation>
